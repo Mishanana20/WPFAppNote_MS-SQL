@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\bin\Debug\WPFAppNote.exe.config
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\bin\Debug\WPFAppNote.exe
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\bin\Debug\WPFAppNote.pdb
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\MainWindow.g.cs
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\App.g.cs
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote_MarkupCompile.cache
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote_MarkupCompile.lref
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\MainWindow.baml
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.g.resources
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.Properties.Resources.resources
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.exe
+C:\Users\Home\source\repos\WPF Application\WPFAppNote\obj\Debug\WPFAppNote.pdb
